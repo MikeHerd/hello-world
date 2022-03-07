@@ -1,2 +1,3 @@
 # hello-world
-proof of competence for Github via a hello-world repository.
+Here lies proof of capability of changes through github
+Hopefully this is the most difficult thing we do all semester...
